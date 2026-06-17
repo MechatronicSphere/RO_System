@@ -8,3 +8,4 @@ A water filtration system that increases the efficiency of water filtration and 
 4. joseph macharia
 5. kenneth Mutuku
 6. Ian waweru
+7. kevin gitau
