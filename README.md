@@ -7,3 +7,4 @@ A water filtration system that increases the efficiency of water filtration and 
 3. Hawwah Mwangi
 4. joseph macharia
 5. kenneth Mutuku
+6. Ian waweru
